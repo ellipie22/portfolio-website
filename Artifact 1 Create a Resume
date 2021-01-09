@@ -1,0 +1,50 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Artifact 1 Create a Resume</title>
+</head>
+<body>
+  <h1>CURRICULUM VITAE CLAUDIA MARTINEZ</h1>
+  <hr>
+  <h2>PERSONAL DETAILS <br /> Residential Address:   123 Dreamland Street, 45987 Moema BRAZIL <br /> Mobile:          +555 666 777 <br /> Date of Birth:         1  April 1980 <br /> Nationality:           Brazilian</h2>
+  <h2>CAREER OBJECTIVE <br /> To expand skills and experience within the marketing department of an international sports events company or association</h2>
+  <h2>EDUCATION HISTORY <br /> <strong> May 2006</strong> – Current <i>University of Sao Paulo, Sao Paulo BRAZIL</i><br /><a href="http://www.fe.usp.br">http://www.fe.usp.br</a> <br />Masters in International Marketing <br /> Expected graduation: Oct 2007 <br /> <br /> <strong>Jan 2002 – Nov 2005</strong> <br /> <i>University of Sao Paulo, Sao Paulo BRAZIL</i> <br /> Bachelor of Business in Sports Management<br /> <br /><strong>May 1999 – Feb 2001</strong><br /> <i>Augusto Laranja High School, Sao Paulo BRAZIL</i> <br /> High School Certificate equivalent</h2>
+  <h2>WORK EXPERIENCE <br /> Jan 2006 – Current <br /> MOEMA MARKETING, Sao Paulo BRAZIL <br /> <a href="http://www.moemamkt.com.br">http://www.moemamkt.com.br</a> <br /> Marketing Trainee – Casual (weekends and holidays) <br />  <br /> Responsibilities and achievements: <br /> Developed marketing and promotional material for sporting events <br /> Coordinated in-house events for the annual Moema Sports Marketing Fair including audio visual, entertainment, programming, food and beverage and staffing requirements <br /> Attended Regional Conference ‘Sports Marketing in Brazil 2007’ <br /> Increased readership of the Summer Edition of Moema Sports Magazine by 10% through promotional campaigns <br />  <br />  <br /> Jun 2006 – Sep 2006 <br /> THE ART OF MARKETING, Sao Paulo BRAZIL <br /> <a href="http://www.artofmarketing.com">http://www.artofmarketing.com</a><br />Internship – 12 weeks full-time <br /> <br /> Responsibilities and achievements:</h2>
+    <ul>
+       <li><h3>Assisted in the preparation of copywriting including press releases, radio and newspaper advertisements</h3></li>
+       <li><h3>Conducted market research into client demographics</h3></li>
+       <li><h3>Coordinated in-house internal marketing promotions such as ‘Employee of the Month’ selection</h3></li>
+       <li><h3>Updated content of The Art of Marketing website</h3></li>
+       <li><h3>Assisted Marketing Manager with general sales and marketing administration tasks</h3></li>
+    </ul>
+  <h2>COMMUNITY INVOLVEMENT & RECOGNISED ACHIEVEMENTS <br /> 2006             Selected as President of University Recreation and Sports Representative Council <br /> 2005/2007          Commendation for Academic Excellence – Head of Sports Marketing, SP University <br /> 2000 – 2006            Captained Flora Seju Tennis Team <br /> 2005             1st place in the Flora Seju Regional Volleyball Championships <br /> 2003 – 2006      Chaired the Sao Paolo Sports Ball Coordination Committee <br /> 2003 – 2007            Volunteer – Fundraising for Amnesty International and the 40 Hour Famine</h2>
+  <h2>OTHER SKILLS AND CERTIFICATES</h2>
+  <h3>Computer Skills:</h3>
+    <ul>
+    
+      <li><h3>Microsoft XP applications (Word, Excel, Office, Powerpoint, Outlook, Access) - Advanced</h3></li>
+      <li><h3>Microsoft Office Document Imaging and Scanning - Advanced</h3></li>
+      <li><h3>Acrobat Reader 6.0 – Intermediate</h3></li>
+      <li><h3>Fidelio Front Office Systems 6.02 – Beginner</h3></li>
+
+    </ul>
+    Language Skills:
+    <ul>
+      <li><h3>Portuguese - (Native Tongue)</h3></li>
+      <li><h3>French - Basic (reading and writing skills)</h3></li>
+    </ul>
+    Other:
+    <ul>
+      <li><h3>St John’s Ambulance Senior First Aid Certificate - 2007</h3></li>
+    </ul>
+       
+  <h2>PERSONAL COMPETENCIES <br /> Ability to work in a fast-paced environment to set deadlines <br /> Excellent oral and written correspondence with an exceptional attention to detail <br /> Highly organised with a creative flair for project work <br /> Enthusiastic self-starter who contributes well to the team</h2>
+  <h2>INTERESTS AND ACTIVITIES <br /> Tennis, volleyball, surfing, pottery, graphic design</h2>
+  <h2>REFERENCES</h2> <br /> <address>Mr Juan Maciel <br /> Events Manager <br /> Moema Marketing <br /> 13 Sejuado Road <br /> Moema 38280 <br /> Sao Paulo BRAZIL <br /> Ph:   +555 111 999 <br /> Fax: +555 111 998 <br /> Email: juanmaciel@moemamktg.br <br />  <br /> Ms Izabela Monteiro <br /> Marketing Manager <br /> The Art of Marketing98 Bonita Way <br /> Moema 38280 <br /> Sao Paulo BRAZIL <br /> Ph: + 555 222 333 <br /> Fax: +555 222 334 <br /> Email: izabelam@artofmarketing.com</address>
+  <img  src="https://cdn.britannica.com/54/101754-050-3FA9B4A0/Downtown-Sao-Paulo.jpg" alt="An image of the city of Sao Paulo">
+  <p><a href="http://validator.w3.org/check?uri=referer" target="_blank"><img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width="165" height="64" alt="HTML5" title="HTML5"></a></p>
+</body>
+</html>
