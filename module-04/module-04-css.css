@@ -33,7 +33,62 @@ body {
 }
 .column3 {
 	margin-right: 0%;
-    background-color: #ffffff;
+    background-color: * {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
+h1 {
+   color: green;
+   font-family: 'BoxfontRoundRegular';
+   font-weight: normal;
+   font-style: normal;
+}
+body {
+	width: 90%;
+	margin: 0 auto;
+    background-image:url("https://www.itl.cat/pngfile/big/296-2962808_75-super-hd-texture-wallpapers-texture-background.jpg");
+    background-size: cover;
+  
+}
+#content {
+	overflow: auto;}
+#nav, #feature, #footer {
+	margin: 1%;
+}
+.column1, .column2, .column3 {
+	width: 31.3%;
+	float: left;
+	margin: 1%;
+}
+.column1 {
+    background-color: #737373;
+}
+.column2{
+    background-color: #a6a6a6;
+}
+.column3 {
+    margin-right: 0%;
+    background-color: #f2f2f2;
+}
+li {
+	display: inline;
+	padding: 0.5em;}
+#nav, #footer {
+	background-color: #ff8080;
+	padding: 0.5em 0;}
+#feature, .article {
+	height: 10em;
+	margin-bottom: 1em;
+
+}
+#feature {
+ background-color: #27aae2;
+ background-image: url("https://us.123rf.com/450wm/veleri/veleri1802/veleri180200013/95441925-stock-vector-flat-illustration-with-grampus-on-a-blue-background-vector-killer-whale-for-your-design-.jpg?ver=6https://us.123rf.com/450wm/veleri/veleri1802/veleri180200013/95441925-stock-vector-flat-illustration-with-grampus-on-a-blue-background-vector-killer-whale-for-your-design-.jpg?ver=6");
+ background-size:contain;
+ background-position: right;
+ background-repeat:no-repeat;
+}
+;
 }
 li {
 	display: inline;
