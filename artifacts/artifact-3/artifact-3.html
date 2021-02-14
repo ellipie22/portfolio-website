@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Artifact 3 - Rhombus</title>
+  <link rel="stylesheet" href="artifact-3-css.css">
+</head>
+<body>
+<h1>Artifact 3 
+<br>
+Made By Pierre Ellie</h1>
+<label>What is the size of Rhombus?</label><br>
+<input type="text" id="rHeight" value="5" size="5">
+<br>
+<label>Choose color for Even position</label><br>
+<select id="colorEven">
+<option value="#33FFEC">Light Blue</option>
+<option value="#FF33E0">Hot Pink</option>
+<option value="#F9FF33">Yellow</option>
+</select><br>
+
+<label>Choose color for Odd position</label><br>
+<select id="colorOdd">
+<option value="#000000">Black</option>
+<option value="#FF5733">Orange</option>
+<option value="#8118FF">Violet</option>
+</select>
+<br>
+<label>Choose symbol for Rhombus</label>
+<select id="symbol">
+<option value="#">#</option>
+<option value="!">!</option>
+<option value="+">+</option>
+</select>
+<br>
+<button onclick="createRhombus(document.getElementById('rHeight').value,
+document.getElementById('colorEven').value,
+document.getElementById('colorOdd').value,
+document.getElementById('symbol').value);">Display Rhombus</button>
+<br>
+<div id="upLeft"></div>
+<div id="upRight"></div>
+
+<div class="clear"></div>
+
+
+<div id="downLeft"></div>
+<div id="downRight"></div>
+
+<script src="artifact-3-js.js"></script>
+</body>
+</html>
