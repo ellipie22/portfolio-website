@@ -1,8 +1,6 @@
 var slideIndex = 1;
-showSlides(slideIndex);
-while(true){
-  setTimeout(plusSlides(1), 3000);
-}
+showSlides(1);
+
 function plusSlides(n) {
   showSlides(slideIndex += n);
 }
