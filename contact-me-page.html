@@ -6,6 +6,7 @@
 <meta name="keywords" content="simple #1, template, simpletemplates.org" />
 <link rel="stylesheet" type="text/css" href="style.css" />
 <title> Contact Me Page </title>
+<script src="form-validate-js.js"></script>
 </head>
 <body>
 <div id="header">
@@ -26,17 +27,20 @@
 </div>
 <div id="content">
 <form action="https://ellipie22.github.io/prog-109-website/thank-you-page.html" method="get"
-name="myContact">
-  <label for="name">Name:</label><br>
-  <input type="text" id="name" name="name"><br>
-  <label for="message">Email:</label><br>
-  <input type="text" id="message" name="message"><br>
+name="myContact" onsubmit="return validateForm()";>
+  <label for="FirstName"> Name:</label><br>
+  <input type="text" id="FirstName" name="FirstName"><br>
+  <label for="email">Email:</label><br>
+  <input type="text" id="email" name="email"><br>
   <label for="info">Any additional information:</label><br>
   <input type="text" id="info" name="info"><br>  <br>
   <input type="submit" value="Submit">
 </form>
+<div id="errorMessage">
+  <p id="errorMessages"></p>
 </div>
-  
+</div>
+
   
   
 <div class="clear"> </div>
