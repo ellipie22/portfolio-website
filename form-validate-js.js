@@ -2,8 +2,8 @@ function validateForm(){
   var errormessages = "";
   var validFirstname = false;
   var firstname = document.getElementById("FirstName").value;
-  if (firstname === "null" || firstname === "" || firstname.length > 20 || !/^[A-Za-z\s]+$/.test(firstname)){
-    errormessages += "The name is required and must be less than 20 characters, ";
+  if (firstname === "null" || firstname === "" || firstname.length > 40 || !/^[A-Za-z\s]+$/.test(firstname)){
+    errormessages += "The name is required and must be less than 40 characters, ";
 
   }else{
      validFirstname = true;
